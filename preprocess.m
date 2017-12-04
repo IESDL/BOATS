@@ -31,7 +31,7 @@ clear all
 plot_input = 1;                                     % (yes 1 or no 0)
 create_ecology = 1;                                 % (yes 1 or no 0)
 create_economy = 1;                                 % (yes 1 or no 0)
-create_regulation = 1;                              % (yes 1 or no 0)
+create_regulation = 0;                              % (yes 1 or no 0)
 
 % General forcing paths and characteristics ********
 nlat = 240;                                         % nlat = m nodes along latitude
